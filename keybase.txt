@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/apodobnik
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://alexpodobnik.com
+  * I am apodobnik (https://keybase.io/apodobnik) on keybase.
+  * I have a public key ASC2C6M7pLkeg57RFSeywbcFFPF3IW1QSE0ap_gcxbgkFgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b60ba33ba4b91e839ed11527b2c1b70514f177216d50484d1aa7f81cc5b824160a",
+      "host": "keybase.io",
+      "kid": "0120b60ba33ba4b91e839ed11527b2c1b70514f177216d50484d1aa7f81cc5b824160a",
+      "uid": "91f8e0030887c1dcdcba16667de90c19",
+      "username": "apodobnik"
+    },
+    "merkle_root": {
+      "ctime": 1571104047,
+      "hash": "e3661b2ba0f391f1b21c575cd1f23e1df7fc7ace705c9261bad288a86f215086e347a94915ec1cbf2b7493346944c8c5be20e07afabe4147d7d94d0822c3f650",
+      "hash_meta": "949156f1973b44a7b77624ddf383ad705f335042e41e158d89ca63693fdffd25",
+      "seqno": 8127614
+    },
+    "service": {
+      "entropy": "9wqryEHhWFujyUUMMJW9LKHE",
+      "hostname": "alexpodobnik.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.6.0"
+  },
+  "ctime": 1571104060,
+  "expire_in": 504576000,
+  "prev": "94e9ec528e823238d312a8d7ca6aa7dab40a322872d5046e5d162c37321e042f",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtgujO6S5HoOe0RUnssG3BRTxdyFtUEhNGqf4HMW4JBYKp3BheWxvYWTESpcCDMQglOnsUo6CMjjTEqjXymqn2rQKMihy1QRuXRYsNzIeBC/EIOiVORCrHJh6Otd024a/1YVO1v07jl2nFociTHUdZOsJAgHCo3NpZ8RA9CEXsNey2dTWaiLYUI8vLrNfq5qwmFzRY1/KAXSNpoQWA+iaYCWNUyKCM7MtTI3Kg4raRazqKV9tFbkc2HOODKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM8gkvXHX4BNcGeL53KoWJj9/Sy+iZdXa8DzgGN3PWLYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/apodobnik
+
+==================================================================
