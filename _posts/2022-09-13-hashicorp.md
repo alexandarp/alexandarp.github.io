@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'HashiCorp Cloud Platform (HCP)'
+title: 'HashiCorp Cloud Platform'
 date: 2022-09-13 16:56:00
 categories: development
 tags:
